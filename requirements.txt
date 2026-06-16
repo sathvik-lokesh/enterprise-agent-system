@@ -1,0 +1,7 @@
+agent-framework-core
+agent-framework-openai
+agent-framework-devui
+mcp
+pgserver
+psycopg[binary]
+httpx
